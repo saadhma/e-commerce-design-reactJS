@@ -1,4 +1,4 @@
-## The Design Screenshots of the e-commerce website build on react JS.
+The Design screenshots of the e-commerce website build in react JS.
 
 ![Screen Shot 2022-12-09 at 4 07 29 PM](https://user-images.githubusercontent.com/92290370/206690639-04713780-1cca-4032-95aa-6244dbd7e843.png)
 
