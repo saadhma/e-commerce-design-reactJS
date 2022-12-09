@@ -1,5 +1,15 @@
 ## The Design Screenshots of the e-commerce website build on react JS.
 
+![Screen Shot 2022-12-09 at 4 07 29 PM](https://user-images.githubusercontent.com/92290370/206690639-04713780-1cca-4032-95aa-6244dbd7e843.png)
+
+![Screen Shot 2022-12-09 at 4 07 40 PM](https://user-images.githubusercontent.com/92290370/206690672-134c8afd-ba04-4f0b-ac11-e0adade1c885.png)
+
+![Screen Shot 2022-12-09 at 4 07 59 PM](https://user-images.githubusercontent.com/92290370/206690675-c96b2139-9bc3-4271-94e2-ca1deaf267aa.png)
+
+![Screen Shot 2022-12-09 at 4 08 31 PM](https://user-images.githubusercontent.com/92290370/206690680-8261b579-f98d-4289-84f2-2ba126771c0d.png)
+
+![Screen Shot 2022-12-09 at 4 08 39 PM](https://user-images.githubusercontent.com/92290370/206690682-43fbcabc-512c-45ac-a54b-92a7fb8341bc.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
